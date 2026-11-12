@@ -9,7 +9,7 @@
 
 An end-to-end **Customer Churn Analysis and Prediction System** powered by an **Artificial Neural Network (ANN)**. This project combines deep learning, customer analytics, interactive visualizations, and predictive modeling to identify customers at risk of leaving a bank.
 
-The application provides an interactive Streamlit dashboard for exploring customer behavior, analyzing churn patterns, predicting individual customer churn probabilities, and evaluating model performance.
+The application provides an interactive Streamlit dashboard for exploring customer behavior, analyzing churn patterns, predicting individual customer churn probabilities, and evaluating model performance..
 
 **🚀 Live Demo:** [Customer Churn Intelligence Dashboard](https://customerchurnanalysisusingann1-aqtdqfhsuti2lcp2mgfgxp.streamlit.app/)
 
